@@ -1,0 +1,15 @@
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\bin\Debug\net8.0\CloundStorageTest.Application.deps.json
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\bin\Debug\net8.0\CloundStorageTest.Application.dll
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\bin\Debug\net8.0\CloundStorageTest.Application.pdb
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.AssemblyInfo.cs
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.dll
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\refint\CloundStorageTest.Application.dll
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundStorageTest.Application.pdb
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\ref\CloundStorageTest.Application.dll
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\bin\Debug\net8.0\CloundStorageTest.Domain.dll
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\bin\Debug\net8.0\CloundStorageTest.Domain.pdb
+C:\Users\marco\source\repos\Clound\CloundStorageTest.Application\obj\Debug\net8.0\CloundSt.ED258F90.Up2Date

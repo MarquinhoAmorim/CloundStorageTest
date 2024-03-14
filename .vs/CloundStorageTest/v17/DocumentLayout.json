@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\Clound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC803D4C-8E29-4A49-80FB-148BA6658F65}|CloundStorageTest.Application\\CloundStorageTest.Application.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC803D4C-8E29-4A49-80FB-148BA6658F65}|CloundStorageTest.Application\\CloundStorageTest.Application.csproj|solutionrelative:cloundstoragetest.application\\usecases\\users\\uploadprofilephoto\\uploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|solutionrelative:cloundstoragetest.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|solutionrelative:cloundstoragetest.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6900CF5D-06C4-401D-AB0C-90EC1AFA5A46}|CloundStorageTest.API\\CloundStorageTest.API.csproj|solutionrelative:cloundstoragetest.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC803D4C-8E29-4A49-80FB-148BA6658F65}|CloundStorageTest.Application\\CloundStorageTest.Application.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.application\\usecases\\users\\uploadprofilephoto\\iuploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC803D4C-8E29-4A49-80FB-148BA6658F65}|CloundStorageTest.Application\\CloundStorageTest.Application.csproj|solutionrelative:cloundstoragetest.application\\usecases\\users\\uploadprofilephoto\\iuploadprofilephotousecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.domain\\cloundstoragetest.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|solutionrelative:cloundstoragetest.domain\\cloundstoragetest.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627814A4-4825-421F-AAFF-666808BE4617}|CloundStorageTest.Infrastructure\\CloundStorageTest.Infrastructure.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.infrastructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627814A4-4825-421F-AAFF-666808BE4617}|CloundStorageTest.Infrastructure\\CloundStorageTest.Infrastructure.csproj|solutionrelative:cloundstoragetest.infrastructure\\storage\\googledrivestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|solutionrelative:cloundstoragetest.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|c:\\users\\marco\\source\\repos\\clound\\cloundstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC06CE4-57D4-4ED4-BC3C-1FCAB6C24EB0}|CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj|solutionrelative:cloundstoragetest.domain\\storage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUploadProfilePhotoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "RelativeToolTip": "CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\IUploadProfilePhotoUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:15:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CloundStorageTest.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\appsettings.Development.json",
+              "RelativeToolTip": "CloundStorageTest.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T03:11:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\Program.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.API\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\Program.cs",
+              "RelativeToolTip": "CloundStorageTest.API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:05:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.API\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.API\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "CloundStorageTest.API\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T01:33:13.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadProfilePhotoUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "RelativeToolTip": "CloundStorageTest.Application\\UseCases\\Users\\UploadProfilePhoto\\UploadProfilePhotoUseCase.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCYAAAD1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:02:53.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloundStorageTest.Domain",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj",
+              "RelativeDocumentMoniker": "CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj",
+              "RelativeToolTip": "CloundStorageTest.Domain\\CloundStorageTest.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T02:29:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleDriveStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "RelativeToolTip": "CloundStorageTest.Infrastructure\\Storage\\GoogleDriveStorageService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:34:58.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CloundStorageTest.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:30:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\Storage\\IStorageService.cs",
+              "RelativeDocumentMoniker": "CloundStorageTest.Domain\\Storage\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\Clound\\CloundStorageTest.Domain\\Storage\\IStorageService.cs",
+              "RelativeToolTip": "CloundStorageTest.Domain\\Storage\\IStorageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:29:59.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
